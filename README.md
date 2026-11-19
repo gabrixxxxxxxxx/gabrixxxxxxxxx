@@ -1,4 +1,4 @@
-## benvenuto sul mio GitHub 👋
+## benvenuto 👋
 
 > sono un ragazzo 15enne appassionato di informatica e programmazione e attualmente sto imparando nuove cose autonomamente
 
