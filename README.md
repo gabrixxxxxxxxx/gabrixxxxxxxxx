@@ -1,6 +1,6 @@
 ## welcome 👋
 
-> I'm a 15 year old boy with a passion for tech and programming and I'm currently learning new things on my own
+> I'm a 15 year old boy with a passion for tech and programming and I'm currently learning new things on my own.
 ---
 
 ## 📚 what I'm learning
