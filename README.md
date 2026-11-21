@@ -5,7 +5,7 @@
 
 ## 📚 what I'm learning
 [![HTML](https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)](#)
-[![CSS](https://img.shields.io/badge/-CSS-000?logo=CSS)](#)
+[![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
